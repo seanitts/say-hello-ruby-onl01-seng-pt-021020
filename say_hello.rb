@@ -1,5 +1,3 @@
 def say_hello(phrase = "Gabriela")
-  puts say_hello("Gabriela")
+  puts "#{phrase}"
 end
-
-say_hello
